@@ -7,22 +7,22 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.ownerNumber = ['6285840701172']
-global.ownerName = 'Code Crew'
+global.ownerNumber = ['6281212612634']
+global.ownerName = 'YONGki'
 
-global.botName = 'Charlotte Linlin'
+global.botName = 'YONGSTORE'
 global.footer = 'Powered By Whatsapp Messenger'
 global.thumb = 'https://telegra.ph/file/71c196cc44dbe175c72c0.jpg'
 global.payment = 'https://telegra.ph/file/0942429295acf18bec623.jpg'
 
-global.packname = 'Powered By'
-global.author = 'Whatsapp'
+global.packname = 'Powered By 'YONG STORE 
+global.author = 'YONG STORE'
 
 global.prefa = ['','.','#','!']
 
 global.quotes = {
   welcome: 'Semoga Kamu Betah Berada Disini Dan Jangan Lupa Untuk Selalu Mengikuti Rules Yang Ada',
-  leave: 'Semoga Amal Ibadahmu Diterima Disisi-Nya'
+  leave: 'Semoga kamu balik lagi :)'
 }
 
 global.mess = (type, m) => {
